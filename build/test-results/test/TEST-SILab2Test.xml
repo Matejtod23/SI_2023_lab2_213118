@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-05-21T16:24:52" hostname="MATEJ" time="0.024">
+  <properties/>
+  <testcase name="testValidPassword()" classname="SILab2Test" time="0.014"/>
+  <testcase name="testShortPassword()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testMissingMandatoryInformation()" classname="SILab2Test" time="0.002"/>
+  <testcase name="testNullUser()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testValidUser()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testPasswordWithoutSpecialCharacters()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testPasswordContainsUsername()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testMissingEmail()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testNullUsername()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testExistingUser()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testMissingPassword()" classname="SILab2Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
