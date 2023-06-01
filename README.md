@@ -1,7 +1,8 @@
 # Матеј Тодоровски 213118
 
 ## 2. Control Flow Graph
-![SILab2Diagram](https://github.com/Matejtod23/SI_2023_lab2_213118/assets/108230956/0345fb2a-cdb8-451c-bee9-63211cec31d9)
+![SILab2Diagram](https://github.com/Matejtod23/SI_2023_lab2_213118/assets/108230956/010f6446-3fb6-49b8-b847-0cad7f6d93df)
+
 
 ## 3. Цикломатска комплексност  
 цикломатската комплексност на овој код е 11, која се добива со бројот на предикатни јазли во кодот односно if услови.
